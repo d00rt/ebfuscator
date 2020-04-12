@@ -1,0 +1,13 @@
+void generate_error_1(void);
+void generate_error_2(void);
+void generate_error_3(void);
+void generate_error_10(void);
+void generate_error_12(void);
+void generate_error_13(void);
+void generate_error_14(void);
+void generate_error_17(void);
+void generate_error_20(void);
+void generate_error_21(void);
+void generate_error_22(void);
+void generate_error_24(void);
+void generate_error_30(void);
